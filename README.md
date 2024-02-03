@@ -3,6 +3,8 @@ How to deploy, configure, and use [Ansible Semaphore](https://www.semui.co/)
 
 [Semaphore Official Documentation](https://docs.semui.co/)
 
+[Semaphore GitHub](https://github.com/ansible-semaphore/semaphore)
+
 Ansible Semaphore can be deployed as a Snap, binary package, or Container.
 
 This guide will cover deployment as a Container.
